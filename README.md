@@ -77,7 +77,7 @@ Boa sorte! ??
 git clone https://github.com/tiagotsc/laravel12.git
 ```   
 
-#### Na pasta raiz (tem as pastas phpdocker, sistema e arquivos docker-compose.yml e README.md), rode:
+#### Na pasta raiz (tem as pastas phpdocker, laravel e arquivos docker-compose.yml e README.md), rode:
 ```powershell
 docker-compose up -d
 ```
