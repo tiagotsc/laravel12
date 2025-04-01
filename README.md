@@ -67,7 +67,7 @@ Boa sorte! ??
 ## **PASSO A PASSO RODAR APLICAÇÃO**
 
 ### Aplicação Laravel que contém o cadastro de proposta de venda, edição do status e data final e listagem das propostas
-#### A aplicação foi feita toda em Laravel 12 (última versão até a presente data). Na aplicação não implementei o sistema de login, o log pega um usuário teste do banco de dados, mas já deixe o log pré pronto para conectar com o usuário autenticado faturamente.
+#### A aplicação foi feita toda em Laravel 12 (última versão até a presente data). Na aplicação não implementei o sistema de login, o log pega um usuário teste do banco de dados, mas já deixe o log pré pronto para conectar com o usuário autenticado (Auth::id()) faturamente.
 
 ### **Observação**
 - É recomendável ter o docker rodando na máquina para executar os passos abaixo
